@@ -69,7 +69,7 @@ The small net gap hides much larger errors that happen to offset each other.
     ├── Part_A_Discrepancy_Register.xlsx
     ├── Part_B_Bank_Reconciliation_Statement.pdf
     ├── Part_C_Correcting_Journal_Entries.md
-    └── Part_D_Memo.md
+    └── Part_D_Memo.pdf
 ```
 
 | File | What it contains |
